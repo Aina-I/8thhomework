@@ -1,0 +1,84 @@
+#container
+{
+    margin: 0 15% 0 15%;
+    width: 70%;
+    height: 100%;
+}
+
+#head
+{
+    text-align: center;
+    font-size: 30px;
+    /*height: 100px;*/
+    padding: 50px;
+    margin-top: 0;
+}
+
+.tip
+{
+    font-size: 22px;
+    margin-left: 300px;
+}
+
+div
+{
+    margin-top: 30px;
+}
+
+input
+{
+    float: right;
+    clear: right;
+    margin-right: 350px;
+    border-color: rgba(80,80,255,0.8);
+    border-width: 1.2px;
+    height: 26px;
+    width: 200px;
+    font-size: 20px;
+}
+
+#button_div
+{
+    position: absolute;
+    left: 40%;
+    top: 500px;
+    text-align: center;
+}
+
+#submit
+{
+    height: 50px;
+    width: 140px;
+    background-color: rgba(40,40,255,0.8);
+    color: white;
+    position: relative;
+    left: 60px;
+}
+
+#ajax
+{
+    margin-top: 20px;
+    height: 50px;
+    width: 140px;
+    background-color: rgba(40,40,255,0.8);
+    color: white;
+    border-style: none;
+    font-size: 20px;
+    position:relative;
+    left: 444px;
+    top: 70px;
+}
+
+.wrong_tip
+{
+    color: red;
+    float: left;
+    clear: both;
+    margin-left: 300px;
+}
+
+#whiteboard
+{
+    position: relative;
+    top:80px;
+}
